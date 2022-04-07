@@ -1,0 +1,56 @@
+
+*{
+    margin: 2px 0; 
+    padding: 0% 1%;
+}
+*{
+ background-image: url(VREC_at_dusk.jpg);
+ background-size: cover;
+ background-blend-mode: darken;
+background-attachment: fixed;
+background-color: rgba(0, 0, 0, 0.3);
+
+
+}
+h1{
+   font-size: 500%;
+   color: rgb(17, 17, 17);
+   text-decoration: underline;
+}
+h2{
+    font-size: 200%;
+    color: rgb(20, 20, 20);
+    text-decoration: underline;
+ }
+ p{
+    color: white;
+    font-size: larger;
+}
+h3{
+    font-size: 250%;
+    color: white;
+    font-style: italic;
+    padding: 0px;
+    margin: 0px;
+}
+ol li{
+font-size: x-large;
+color: white;
+
+}
+.container{
+    font-size: large;
+    word-spacing: 0.3cm;
+}
+.btn{
+    border: 1px solid #fff;
+    color: #fff;
+    transition: 0.8s ease;
+    text-decoration: none;
+
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+
+}
